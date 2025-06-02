@@ -4,5 +4,14 @@
   "artist": "",
   "author": "Su Xiao Wu (苏小五)",
   "cover": "https://i.imgur.com/dm6nv9k.jpeg",
-  "chapters": {}
+  "chapters": {
+    "0": {
+      "title": "Prologue",
+      "volume": "",
+      "last_updated": "1748839320",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/a8mKMG1"
+      }
+    }
+  }
 }
